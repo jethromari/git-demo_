@@ -59,4 +59,3 @@ Repository -- like a folder/container that stores files/folders related to a pro
 
 -----
 git remote add origin <HTTPS link (windows) or SSH link (Mac)>
-1
